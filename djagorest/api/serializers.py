@@ -1,8 +1,9 @@
 from rest_framework import serializers
-from .models import Bucketlist
+from .models import Pessoa
 
-class BucketlistSerializer(serializers.ModelSerializer):
+
+class PessoaSerializer(serializers.ModelSerializer):
 
     class Meta:
-        model = Bucketlist
-        fields = ('id', 'name')
+        model = Pessoa
+        fields = ('id', 'nome')
