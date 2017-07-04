@@ -275,7 +275,7 @@ url(r'^pessoa/(?P<pk>[0-9]+)/$', DetailsView.as_view(), name="details"),
 ```
 
 Agora você pode acessar as pessoas criadas a partir da url http://127.0.0.1:8000/pessoa/1/
-## Links utéis
+## Links úteis
 ### Tutoriais:
 Build a REST API with Django – A Test Driven Approach [Parte 1](https://scotch.io/tutorials/build-a-rest-api-with-django-a-test-driven-approach-part-1)
 e [Parte 2](https://scotch.io/tutorials/build-a-rest-api-with-django-a-test-driven-approach-part-2) (inglês)
