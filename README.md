@@ -1,5 +1,6 @@
 # Level 5 - Treinamento Django
 
+## [Em atualização]
 ## O ambiente de desenvolvimento:
 
   Vamos criar uma pasta chamada ``djangorest``, esta irá armazenar todos os arquivos do nosso projeto.
@@ -13,7 +14,7 @@ Linux:
   - ``source venv/bin/activate``
 
 Windows:
-  -
+  - ``virtualenv venv``
   - ``venv\Scripts\activate``
 
 Você deve ver um ``(venv)`` no terminal/prompt. Agora que já temos o ambiente de desenvolvimento configurado, podemos começar a instalar as dependências.
