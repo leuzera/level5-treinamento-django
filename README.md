@@ -1,5 +1,7 @@
 # Level 5 - Treinamento Django
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f79a5f698fb34c2cbb761aea0776b8a8)](https://www.codacy.com/app/leuzera/level5-treinamento-django?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=leuzera/level5-treinamento-django&amp;utm_campaign=Badge_Grade)
+
 ## [Em atualização]
 ## O ambiente de desenvolvimento:
   Neste Treinamento iremos criar uma API RESTful que fará um  [CRUD](https://pt.wikipedia.org/wiki/CRUD) de Pessoas. Antes de mais nada, vamos criar uma pasta chamada ``djangorest``, esta irá armazenar todos os arquivos do nosso projeto.
