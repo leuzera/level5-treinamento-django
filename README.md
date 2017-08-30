@@ -1,6 +1,7 @@
 # Level 5 - Treinamento Django
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f79a5f698fb34c2cbb761aea0776b8a8)](https://www.codacy.com/app/leuzera/level5-treinamento-django?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=leuzera/level5-treinamento-django&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/f79a5f698fb34c2cbb761aea0776b8a8)](https://www.codacy.com/app/leuzera/level5-treinamento-django?utm_source=github.com&utm_medium=referral&utm_content=leuzera/level5-treinamento-django&utm_campaign=Badge_Coverage)
 
 ## [Em atualização]
 ## O ambiente de desenvolvimento:
